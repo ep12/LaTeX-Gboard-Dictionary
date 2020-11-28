@@ -525,6 +525,9 @@ _infty	 ͚
 \sharp	♯	
 \langle	⟨	
 \rangle	⟩	
+\impliedby	⟸	
+\implies	⟹	
+\iff	⟺	
 \Leftarrow	⟸	
 \Rightarrow	⟹	
 \Leftrightarrow	⟺	
@@ -874,3 +877,12 @@ _lp	₍
 _rp	₎	
 \hbar	ħ	
 \hslash	ℏ	
+\tilde	̃	
+\overline	̅	
+\dot	̇	
+\ddot	̈	
+\underbar	̲	
+\undertilde	̰	
+\doubleoverline	̿	
+\overrightarrow	⃗	
+
